@@ -1,0 +1,14 @@
+{
+  "name": "shuffle-array",
+  "version": "1.0.0",
+  "description": "A simple method to randomly shuffle the contents of an Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Trey Foster",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
